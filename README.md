@@ -17,11 +17,16 @@ Please make sure to complete the following steps *before* attending the workshop
 
 ## Workshop Outline
 Since this workshop only lasts for an hour, this will help gauge what we will spend our time on:
-1. 
+1. Head to Glitch and [remix this repository](https://glitch.com/~ph2024-xrand3d-graphics)
+2. Download the teapot and old well 3D models from this GitHub repository
+3. Use Don McCurdy's glTF viewer to test the models in the browser
+4. Follow along to setup your scene
+5. Customize with more assets, materials, sound, custom shaders, and more!
+6. Test in the browser (either via your laptop, PC, mobile device, or HMD)!
 
-## A-Frame 
 
 ## Post-Workshop Feedback and Resources
+* Finalized repository (will post after the workshop)
 ### A-Frame Coordinate System
 <img width="760" alt="image" src="https://github.com/aneall/IntroToXRand3DGraphics/assets/111532673/dd30d32c-2ff9-464e-8f32-4fecbb344f32">
 <img width="400" alt="image" src="https://github.com/aneall/IntroToXRand3DGraphics/assets/111532673/4ee00795-1aab-4dc4-b7aa-a733dc6c6945">
