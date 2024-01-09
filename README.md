@@ -1,4 +1,4 @@
-# [Intro To XR and 3D Graphics Workshop](https://www.canva.com/design/DAF5aj7hjkQ/zH2YqO-NQ97gI3Pp0zZPaw/view?utm_content=DAF5aj7hjkQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+# [Intro to XR and 3D Graphics Workshop](https://www.canva.com/design/DAF5aj7hjkQ/zH2YqO-NQ97gI3Pp0zZPaw/view?utm_content=DAF5aj7hjkQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 A workshop created by Ashley Neall for [PearlHacks 2024](https://pearlhacks.com/) – UNC-Chapel Hill's annual hackathon uplifting women in CS!
 
 ## An Introduction
