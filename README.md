@@ -19,7 +19,7 @@ Please make sure to complete the following steps *before* attending the workshop
 Since this workshop only lasts for an hour, this will help gauge what we will spend our time on:
 1. Head to Glitch and [remix this repository](https://glitch.com/~ph2024-xrand3d-graphics)
 2. Download the teapot and old well 3D models from this GitHub repository
-3. Use Don McCurdy's glTF viewer to test the models in the browser
+3. Use [Don McCurdy's glTF viewer](https://gltf-viewer.donmccurdy.com/) to test your glTF/glb models in the browser
 4. Follow along to setup your scene
 5. Customize with more assets, materials, sound, custom shaders, and more!
 6. Test in the browser (either via your laptop, PC, mobile device, or HMD)!
