@@ -35,5 +35,6 @@ Since this workshop only lasts for an hour, this will help gauge what we will sp
 <img width="400" alt="image" src="https://github.com/aneall/IntroToXRand3DGraphics/assets/111532673/4ee00795-1aab-4dc4-b7aa-a733dc6c6945">
 <img width="500" alt="image" src="https://github.com/aneall/IntroToXRand3DGraphics/assets/111532673/7377b5f3-3245-45e9-a87e-7f43c83797b1">
 
-
+### Contact Information
+Ashley Neall – aneall@unc.edu
 
