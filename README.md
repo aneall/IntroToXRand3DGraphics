@@ -17,13 +17,15 @@ Please make sure to complete the following steps *before* attending the workshop
 
 ## Workshop Outline
 Since this workshop only lasts for an hour, this will help gauge what we will spend our time on:
-1. Intro to XR and 3D Graphics presentation – 
-2. Head to Glitch and [remix this repository](https://glitch.com/~ph2024-xrand3d-graphics)
-3. Download the teapot and old well 3D models from this GitHub repository
-4. Use [Don McCurdy's glTF viewer](https://gltf-viewer.donmccurdy.com/) to test your glTF/glb models in the browser
-5. Follow along to setup your scene
-6. Customize with more assets, materials, sound, custom shaders, and more!
-7. Test in the browser (either via your laptop, PC, mobile device, or HMD)!
+1. Intro to XR and 3D Graphics presentation – 20 minutes
+2. A-Frame - 30 minutes
+   a. Head to Glitch and [remix this repository](https://glitch.com/~ph2024-xrand3d-graphics)
+   b. Download the teapot and old well 3D models from this GitHub repository
+   c. Use [Don McCurdy's glTF viewer](https://gltf-viewer.donmccurdy.com/) to test your glTF/glb models in the browser
+   d. Follow along to setup your scene
+4. Questions + customizing - 10 minutes
+   a. Customize with more assets, materials, sound, custom shaders, and more!
+   b. Test in the browser (either via your laptop, PC, mobile device, or HMD)!
 
 
 ## Post-Workshop Feedback and Resources
