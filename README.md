@@ -1,5 +1,5 @@
 # [Intro to XR and 3D Graphics Workshop](https://www.canva.com/design/DAF5aj7hjkQ/zH2YqO-NQ97gI3Pp0zZPaw/view?utm_content=DAF5aj7hjkQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-A workshop created by Ashley Neall for [PearlHacks 2024](https://pearlhacks.com/) – UNC-Chapel Hill's annual hackathon uplifting women in CS!
+A workshop created by Ashley Neall for [PearlHacks 2024](https://pearlhacks.com/) – UNC-Chapel Hill's annual hackathon for women in CS!
 
 ## An Introduction
 This workshop introduces students to extended reality (XR) and specifically how to **visually** immerse users in XR experiences with 3D computer graphics. I begin with a conceptual overview of what XR is (based on my own definition and schematics), and then move into explaining some computer graphics concepts. The hands-on aspect of this workshop involves every workshop attendee creating their own web-based XR experience with [A-Frame](https://aframe.io/) while using the [Glitch IDE](https://glitch.com/) for accessible setup.
