@@ -6,7 +6,7 @@ This workshop introduces students to extended reality (XR) and specifically how 
 
 At the conclusion of this workshop, I encourage students to read the extra slides and explore linked resources as they complete their PearlHacks projects :) Feel free to reach out to me with any questions, and if this workshop has sparked an interest in XR and graphics, consider [joining Carolina AR/VR](https://linktr.ee/carvr)!
 
-For those interested, check out [my Personal Website in XR!](https://ashleyinvr.glitch.me/) as an example!
+For those interested, check out [my personal website in XR](https://ashleyinvr.glitch.me/) as an example!
 
 ## Pre-Workshop Setup
 Please make sure to complete the following steps *before* attending the workshop, as you will not have time during the workshop:
