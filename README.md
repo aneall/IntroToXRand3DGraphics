@@ -17,7 +17,7 @@ Please make sure to complete the following steps *before* attending the workshop
 
 ## Workshop Outline
 Since this workshop only lasts for an hour, this will help gauge what we will spend our time on:
-1. Intro to XR and 3D Graphics presentation – 20 minutes
+1. [Intro to XR and 3D Graphics presentation](https://www.canva.com/design/DAF5aj7hjkQ/zH2YqO-NQ97gI3Pp0zZPaw/view?utm_content=DAF5aj7hjkQ&utm_campaign=designshare&utm_medium=link&utm_source=editor) – 20 minutes
 2. A-Frame - 30 minutes
    * Head to Glitch and [remix this repository](https://glitch.com/~ph2024-xrand3d-graphics)
    * Download the teapot and old well 3D models from this GitHub repository
