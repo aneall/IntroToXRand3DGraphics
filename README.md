@@ -23,8 +23,8 @@ Since this workshop only lasts for an hour, this will help gauge what we will sp
    * Download the 3D models from this GitHub repository
      * Old Well created by Ashley Neall
      * Teapot created by Ashley Neall
+     * Brick Floor created by Ashley Neall
      * Low-Poly Tree edited and optimized by Ashley Neall, created by [Anthony Van Dosselaer](https://sketchfab.com/3d-models/low-poly-tree-606d11eec2504972aa5e455c88879872)
-     * Low-Poly Shrub edited and optimized by Ashley Neall, created by [Arekusandoru Kurobe](https://sketchfab.com/3d-models/low-poly-bush-buxus-d3383bb111bc49d6a9d6cfe810e3058b)
    * Use [Don McCurdy's glTF viewer](https://gltf-viewer.donmccurdy.com/) to test your glTF/glb models in the browser
    * Follow along to setup your scene
 4. Questions + customizing - 10 minutes
