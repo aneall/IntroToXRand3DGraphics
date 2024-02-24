@@ -21,8 +21,8 @@ Since this workshop only lasts for an hour, this will help gauge what we will sp
 2. A-Frame - 30 minutes
    * Head to Glitch and [remix this repository](https://glitch.com/~ph2024-xrand3d-graphics)
    * Download the 3D models from this GitHub repository
-     * Old Well created by Ashley Neall with Blender
-     * Teapot created by Ashley Neall with Blender
+     * Old Well created by Ashley Neall
+     * Teapot created by Ashley Neall
      * Low-Poly Trees edited and optimized by Ashley Neall, created by [Anthony Van Dosselaer](https://sketchfab.com/3d-models/low-poly-tree-606d11eec2504972aa5e455c88879872)
      * Low-Poly Shrubs edited and optimized by Ashley Neall, created by [Arekusandoru Kurobe](https://sketchfab.com/3d-models/low-poly-bush-buxus-d3383bb111bc49d6a9d6cfe810e3058b)
    * Use [Don McCurdy's glTF viewer](https://gltf-viewer.donmccurdy.com/) to test your glTF/glb models in the browser
