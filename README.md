@@ -20,7 +20,11 @@ Since this workshop only lasts for an hour, this will help gauge what we will sp
 1. [Intro to XR and 3D Graphics presentation](https://www.canva.com/design/DAF5aj7hjkQ/zH2YqO-NQ97gI3Pp0zZPaw/view?utm_content=DAF5aj7hjkQ&utm_campaign=designshare&utm_medium=link&utm_source=editor) – 20 minutes
 2. A-Frame - 30 minutes
    * Head to Glitch and [remix this repository](https://glitch.com/~ph2024-xrand3d-graphics)
-   * Download the teapot and old well 3D models from this GitHub repository
+   * Download the 3D models from this GitHub repository
+     * Old Well created by Ashley Neall with Blender
+     * Teapot created by Ashley Neall with Blender
+     * Low-Poly Trees edited and optimized by Ashley Neall, created by [Anthony Van Dosselaer](https://sketchfab.com/3d-models/low-poly-tree-606d11eec2504972aa5e455c88879872)
+     * Low-Poly Shrubs edited and optimized by Ashley Neall, created by [Arekusandoru Kurobe](https://sketchfab.com/3d-models/low-poly-bush-buxus-d3383bb111bc49d6a9d6cfe810e3058b)
    * Use [Don McCurdy's glTF viewer](https://gltf-viewer.donmccurdy.com/) to test your glTF/glb models in the browser
    * Follow along to setup your scene
 4. Questions + customizing - 10 minutes
