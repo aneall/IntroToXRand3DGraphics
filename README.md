@@ -34,7 +34,7 @@ Since this workshop only lasts for an hour, this will help gauge what we will sp
 
 ## Post-Workshop Feedback and Resources
 * [Finalized Project](https://intro-to-xr-and-3d-graphics.glitch.me)
-* [A-Frame Playlist](https://youtu.be/-Q_FIByQUAI?feature=shared)
+* [A-Frame Playlist](https://youtube.com/playlist?list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84&si=UBhFFGcaMI5976O5)
 ### A-Frame Coordinate System
 <img width="760" alt="image" src="https://github.com/aneall/IntroToXRand3DGraphics/assets/111532673/dd30d32c-2ff9-464e-8f32-4fecbb344f32">
 <img width="400" alt="image" src="https://github.com/aneall/IntroToXRand3DGraphics/assets/111532673/4ee00795-1aab-4dc4-b7aa-a733dc6c6945">
