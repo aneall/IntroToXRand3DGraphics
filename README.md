@@ -33,7 +33,7 @@ Since this workshop only lasts for an hour, this will help gauge what we will sp
 
 
 ## Post-Workshop Feedback and Resources
-* Finalized repository (will post after the workshop)
+* [Finalized Project](https://glitch.com/~ph2024-xrand3d-graphics)
 ### A-Frame Coordinate System
 <img width="760" alt="image" src="https://github.com/aneall/IntroToXRand3DGraphics/assets/111532673/dd30d32c-2ff9-464e-8f32-4fecbb344f32">
 <img width="400" alt="image" src="https://github.com/aneall/IntroToXRand3DGraphics/assets/111532673/4ee00795-1aab-4dc4-b7aa-a733dc6c6945">
